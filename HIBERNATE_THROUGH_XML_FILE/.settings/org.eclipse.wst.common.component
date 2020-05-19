@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="HIBERNATE_THROUGH_XML_FILE">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="HIBERNATE_THROUGH_XML_FILE"/>
+        <property name="java-output-path" value="/HIBERNATE_THROUGH_XML_FILE/build/classes"/>
+    </wb-module>
+</project-modules>
